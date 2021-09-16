@@ -1,7 +1,7 @@
 import time
 import webbrowser
 
-repeatitionTime = 100
+repeatitionTime = 3
 timesRun = 0
 print("Enjoy the moment - Anurag ;)")
 
