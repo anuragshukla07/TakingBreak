@@ -7,5 +7,5 @@ print("Enjoy the moment - Anurag ;)")
 
 while(timesRun < repeatitionTime):
     webbrowser.open_new("https://www.google.co.in/")
-    time.sleep(0.2)
+    time.sleep(2*60*60)
     timesRun = timesRun + 1
